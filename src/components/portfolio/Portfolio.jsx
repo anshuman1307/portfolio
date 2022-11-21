@@ -66,7 +66,6 @@ const Portfolio = () => {
           :
             <a
             href='javascript:void(0)'
-            target="_blank"
             className="btn btn-disable"
             rel="noreferrer"
           >
