@@ -29,7 +29,7 @@ const Intro = () => {
             </article>
           </div>
           <p>Experienced Web Application Developer with a demonstrated history of working in the internet / web industry. 
-Skilled in Javascript, React JS, Redux, jQuery, Node.js, PHP, ECMAScript, MySql, Linux, Git, Agile methodologies.</p>
+Skilled in Javascript, React JS, Redux, Typescript, Node.js, Cypress, Jest ECMAScript, Linux, Git, Agile methodologies.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

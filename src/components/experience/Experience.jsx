@@ -11,7 +11,6 @@ import { SiCypress } from 'react-icons/si';
 import { FaNodeJs } from 'react-icons/fa';
 import { SiSwagger } from 'react-icons/si';
 import { TbBrandPhp } from 'react-icons/tb';
-import { GrMysql } from 'react-icons/gr';
 import { DiGitMerge } from 'react-icons/di';
 import './experience.css';
 
@@ -76,10 +75,6 @@ const Experience = () => {
             <article className="experience__details">
               <TbBrandPhp className="experience__details-icon" />
               <h4>PHP</h4>
-            </article>
-            <article className="experience__details">
-              <GrMysql className="experience__details-icon" />
-              <h4>MySQL</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
